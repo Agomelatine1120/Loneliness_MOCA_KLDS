@@ -1,8 +1,7 @@
 # Loneliness_MOCA_KLDS
 
-Private reproducible analysis package for the final Model 3 analysis examining whether baseline individual structural covariance similarity moderates the association between longitudinal loneliness change and follow-up cognition.
+Private reproducible analysis package for the analysis examining whether baseline individual structural covariance similarity moderates the association between longitudinal loneliness change and follow-up cognition.
 
-This repository intentionally contains **Model 3 only**. Earlier Model 1/2 analyses, LOO, DTW, follow-up KLDS-change models, whole-brain maps, and figure-generation experiments are excluded.
 
 ## Scientific question
 
