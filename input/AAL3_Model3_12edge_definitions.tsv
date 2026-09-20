@@ -1,0 +1,13 @@
+edge_key	edge	seed	target	seed_left_AAL3_ID	seed_right_AAL3_ID	target_AAL3_ID	seed_left_AAL3_name	seed_right_AAL3_name	target_AAL3_name
+hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	41	42	26	Hippocampus_L	Hippocampus_R	OFCmed_R
+hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	41	42	28	Hippocampus_L	Hippocampus_R	OFCant_R
+hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	41	42	30	Hippocampus_L	Hippocampus_R	OFCpost_R
+hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	41	42	34	Hippocampus_L	Hippocampus_R	Insula_R
+amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	45	46	26	Amygdala_L	Amygdala_R	OFCmed_R
+amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	45	46	28	Amygdala_L	Amygdala_R	OFCant_R
+amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	45	46	30	Amygdala_L	Amygdala_R	OFCpost_R
+amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	45	46	34	Amygdala_L	Amygdala_R	Insula_R
+dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	19	20	26	Frontal_Sup_Medial_L	Frontal_Sup_Medial_R	OFCmed_R
+dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	19	20	28	Frontal_Sup_Medial_L	Frontal_Sup_Medial_R	OFCant_R
+dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	19	20	30	Frontal_Sup_Medial_L	Frontal_Sup_Medial_R	OFCpost_R
+dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	19	20	34	Frontal_Sup_Medial_L	Frontal_Sup_Medial_R	Insula_R

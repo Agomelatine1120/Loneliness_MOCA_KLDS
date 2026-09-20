@@ -1,0 +1,24 @@
+AAL3 KLDS MODEL 3-ONLY ANALYSIS
+
+Sample
+- 72 participants with complete baseline KLDS and baseline/follow-up clinical data.
+- FollowupInterval is included because observed intervals are 2, 3, or 4 years.
+
+Edges
+- Three bilateral-mean seeds: hippocampus, amygdala, dmPFC.
+- Four right targets: medial OFC, anterior OFC, posterior OFC, insula.
+- Twelve prespecified KLDS edges.
+
+Model
+MOCA_2 ~ MOCA_1 + UCLA_LS_1 + delta_UCLA_LS + KLDS_1 + delta_UCLA_LS*KLDS_1 + age_1 + sex + education_1 + FollowupInterval
+
+- Continuous predictors are mean-centered before forming the interaction.
+- Sex retains the source 0/1 coding.
+- Target: centered delta_UCLA_LS x centered baseline KLDS interaction.
+
+Inference
+- Ordinary least squares, conventional two-sided p-values as primary inference.
+- BH-FDR across the 12 interaction tests.
+- HC3 standard errors, p-values, and a separate 12-test BH-FDR are reported as
+  sensitivity statistics.
+- Simple slopes describe delta_UCLA_LS at baseline KLDS mean -1 SD, mean, and mean +1 SD.

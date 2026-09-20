@@ -1,0 +1,51 @@
+{
+  "analysis": "AAL3 KLDS Model 3-only focused analysis",
+  "formula": "MOCA_2 ~ MOCA_1 + UCLA_LS_1 + delta_UCLA_LS + KLDS_1 + delta_UCLA_LS*KLDS_1 + age_1 + sex + education_1 + FollowupInterval",
+  "target_term": "centered delta_UCLA_LS x centered baseline KLDS",
+  "paired_subjects": 72,
+  "seeds": [
+    "hippocampus",
+    "amygdala",
+    "dmpfc"
+  ],
+  "targets": [
+    "ofc_medial_r",
+    "ofc_anterior_r",
+    "ofc_posterior_r",
+    "insula_r"
+  ],
+  "edges": 12,
+  "primary_tests": 12,
+  "primary_correction": "BH-FDR across the 12 interaction terms",
+  "common_covariates": [
+    "baseline MOCA",
+    "baseline UCLA-LS",
+    "baseline age",
+    "sex",
+    "baseline education",
+    "FollowupInterval"
+  ],
+  "lower_order_terms": [
+    "delta_UCLA_LS",
+    "baseline KLDS"
+  ],
+  "primary_standard_errors": "conventional OLS",
+  "sensitivity_standard_errors": "HC3",
+  "pairing": {
+    "clinical_subjects": 72,
+    "baseline_AAL3_subjects": 72,
+    "analysis_subjects": 72,
+    "focused_edges": 12,
+    "analysis_rows": 864,
+    "missing_model3_values": 0,
+    "followup_interval_counts": {
+      "2": 48,
+      "3": 18,
+      "4": 6
+    }
+  },
+  "fdr_significant_interactions": 7,
+  "raw_p_significant_interactions": 7,
+  "hc3_fdr_significant_interactions": 2,
+  "missing_output_values": 0
+}

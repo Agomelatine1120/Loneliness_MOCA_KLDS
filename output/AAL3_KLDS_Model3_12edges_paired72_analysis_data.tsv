@@ -1,0 +1,865 @@
+subject_id	edge_key	edge	seed	target_region	KLDS_1	UCLA_LS_1	UCLA_LS_2	delta_UCLA_LS	MOCA_1	MOCA_2	age_1	sex_1	education_1	FollowupInterval
+C-0009	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00749496476126	38	50	12	27	27	65	1	15	3
+C-0010	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.332358157706	42	35	-7	29	26	61	0	12	3
+C-0032	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0117444332736	54	68	14	29	27	63	0	12	4
+C-0037	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0587537526633	34	20	-14	30	26	68	1	6	2
+C-0041	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0168784864652	30	35	5	30	27	68	1	12	2
+C-0044	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00922750657513	24	31	7	30	29	68	0	15	2
+C-0047	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.000880682209817	47	36	-11	27	23	66	0	14	2
+C-0048	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0171452860672	49	54	5	24	26	63	1	6	2
+C-0049	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.186044006634	41	31	-10	26	27	63	0	6	4
+C-0050	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.170752657947	38	31	-7	29	25	62	0	9	2
+C-0052	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.211020066088	29	40	11	25	26	62	1	12	4
+C-0054	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0127035666616	55	70	15	24	20	67	0	6	2
+C-0057	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00217247270318	28	26	-2	30	28	62	1	14	3
+C-0058	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.16667119549	51	48	-3	29	28	60	0	9	2
+C-0059	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00144419550121	44	49	5	27	30	61	0	12	2
+C-0061	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0964587045173	36	40	4	28	27	63	0	10	2
+C-0062	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00295065615625	43	32	-11	22	23	70	1	16	2
+C-0073	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.405679807492	54	43	-11	22	23	76	1	12	2
+C-0074	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0688730563747	36	37	1	30	30	64	0	16	2
+C-0075	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.114527625846	26	20	-6	24	27	69	1	16	2
+C-0076	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0540974501051	34	34	0	26	25	70	0	9	2
+C-0078	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.231348966675	32	30	-2	26	27	67	0	8	4
+C-0082	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0564274338681	22	24	2	26	27	65	1	9	2
+C-0083	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.000302932880579	24	36	12	22	19	65	0	5	2
+C-0084	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.254069967665	59	50	-9	25	25	66	0	9	2
+C-0085	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0165761161345	23	36	13	23	26	65	0	12	2
+C-0086	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.000433355029678	55	52	-3	29	29	61	1	16	2
+C-0088	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.030035930522	30	33	3	26	28	65	0	12	2
+C-0089	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.019192500224	27	30	3	23	24	65	1	12	2
+C-0090	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0147931848097	44	42	-2	30	30	66	0	16	2
+C-0091	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.143571496617	25	35	10	30	28	71	1	16	2
+C-0093	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00296275144036	45	40	-5	30	30	61	1	15	2
+C-0094	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.332949777637	37	35	-2	26	28	72	0	14	2
+C-0095	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.114368366719	34	30	-4	30	27	67	1	9	2
+C-0096	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.226359194036	36	44	8	30	30	63	0	12	2
+C-0097	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0268063583752	24	24	0	24	25	70	1	6	2
+C-0098	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00295598851386	45	44	-1	20	24	62	0	9	2
+C-0099	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0817356121946	52	48	-4	26	24	65	1	16	2
+C-0100	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0167640748377	52	53	1	26	27	65	0	12	2
+C-0101	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00727026920097	34	29	-5	29	30	66	0	12	2
+C-0102	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.247447906665	25	23	-2	29	27	72	1	12	2
+C-0104	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.174146541466	22	23	1	28	28	64	1	12	2
+C-0105	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00176602698529	38	35	-3	29	30	61	0	16	2
+C-0107	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00374232919563	39	38	-1	28	29	61	1	18	3
+C-0108	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.096079346302	38	34	-4	25	28	61	0	14	3
+C-0110	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.367305730957	36	43	7	26	26	66	0	14	2
+C-0111	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.30690629858	39	33	-6	24	23	60	0	6	3
+C-0113	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00767405541096	43	51	8	25	26	63	0	12	3
+C-0114	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00179495989644	38	67	29	22	26	68	1	9	3
+C-0115	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.307692666366	43	47	4	28	28	66	0	14	3
+C-0116	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0516905956	38	32	-6	29	27	64	0	9	3
+C-0117	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00577852762174	32	28	-4	27	26	63	1	12	3
+C-0118	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00591528458453	38	36	-2	27	28	60	1	17	3
+C-0122	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.101178262211	32	37	5	25	26	67	0	8	3
+C-0124	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.178579474028	44	42	-2	27	29	68	1	6	3
+C-0126	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.321716420266	58	39	-19	18	9	80	0	0	4
+C-0127	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.123408511862	54	35	-19	26	26	67	0	6	4
+C-0128	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.138696219929	39	40	1	24	24	67	0	6	3
+C-0129	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.471263465908	46	43	-3	28	29	67	0	15	2
+C-0139	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.106883576854	32	38	6	24	24	66	0	14	3
+C-0141	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0877012641583	61	55	-6	29	28	63	1	6	2
+C-0143	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00911674754722	41	49	8	25	23	62	0	9	3
+C-0144	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00661694732855	44	38	-6	21	19	64	1	6	2
+C-0147	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00692571465229	53	47	-6	29	30	69	0	16	2
+C-0154	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0157391462464	30	20	-10	26	28	67	0	9	3
+C-0171	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.365048435335	27	29	2	23	26	68	1	14	2
+C-0172	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0108023604723	53	49	-4	29	27	65	0	12	2
+C-0179	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.117260896145	35	46	11	25	26	65	0	9	2
+C-0194	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.0176143741066	51	55	4	28	27	65	1	12	2
+C-0195	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.00204807304	38	42	4	21	26	70	0	6	2
+C-0204	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.267134911032	38	45	7	26	28	64	0	12	2
+C-0214	hippocampus_to_ofc_medial_r	bilateral mean hippocampus to right medial OFC	hippocampus	ofc_medial_r	0.45201210664	26	27	1	23	22	70	0	6	2
+C-0009	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000820794911944	38	50	12	27	27	65	1	15	3
+C-0010	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00212090575421	42	35	-7	29	26	61	0	12	3
+C-0032	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000303733455784	54	68	14	29	27	63	0	12	4
+C-0037	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000949868758769	34	20	-14	30	26	68	1	6	2
+C-0041	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	1.06641050647e-05	30	35	5	30	27	68	1	12	2
+C-0044	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000685306580006	24	31	7	30	29	68	0	15	2
+C-0047	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000128908156725	47	36	-11	27	23	66	0	14	2
+C-0048	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00575908435325	49	54	5	24	26	63	1	6	2
+C-0049	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0149743199527	41	31	-10	26	27	63	0	6	4
+C-0050	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	1.73678903627e-05	38	31	-7	29	25	62	0	9	2
+C-0052	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	7.64659757108e-05	29	40	11	25	26	62	1	12	4
+C-0054	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0156232745705	55	70	15	24	20	67	0	6	2
+C-0057	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000193415181159	28	26	-2	30	28	62	1	14	3
+C-0058	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00113933339655	51	48	-3	29	28	60	0	9	2
+C-0059	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0212434664567	44	49	5	27	30	61	0	12	2
+C-0061	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.128152633841	36	40	4	28	27	63	0	10	2
+C-0062	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00210388235888	43	32	-11	22	23	70	1	16	2
+C-0073	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.259276521879	54	43	-11	22	23	76	1	12	2
+C-0074	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00219844881896	36	37	1	30	30	64	0	16	2
+C-0075	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000104176443542	26	20	-6	24	27	69	1	16	2
+C-0076	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.069199390822	34	34	0	26	25	70	0	9	2
+C-0078	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000122446354938	32	30	-2	26	27	67	0	8	4
+C-0082	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0707625559627	22	24	2	26	27	65	1	9	2
+C-0083	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00194996374616	24	36	12	22	19	65	0	5	2
+C-0084	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00886869426045	59	50	-9	25	25	66	0	9	2
+C-0085	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0100505405086	23	36	13	23	26	65	0	12	2
+C-0086	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	5.99005557489e-06	55	52	-3	29	29	61	1	16	2
+C-0088	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0454432883401	30	33	3	26	28	65	0	12	2
+C-0089	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00243059388002	27	30	3	23	24	65	1	12	2
+C-0090	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00228516015087	44	42	-2	30	30	66	0	16	2
+C-0091	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0643785255428	25	35	10	30	28	71	1	16	2
+C-0093	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00034062224847	45	40	-5	30	30	61	1	15	2
+C-0094	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.116273991945	37	35	-2	26	28	72	0	14	2
+C-0095	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.555852476082	34	30	-4	30	27	67	1	9	2
+C-0096	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.031634637865	36	44	8	30	30	63	0	12	2
+C-0097	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.010250309997	24	24	0	24	25	70	1	6	2
+C-0098	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	6.12344055654e-05	45	44	-1	20	24	62	0	9	2
+C-0099	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.02797701942	52	48	-4	26	24	65	1	16	2
+C-0100	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	1.07507412888e-06	52	53	1	26	27	65	0	12	2
+C-0101	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00017484063656	34	29	-5	29	30	66	0	12	2
+C-0102	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.234584239293	25	23	-2	29	27	72	1	12	2
+C-0104	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0113302800585	22	23	1	28	28	64	1	12	2
+C-0105	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000948424392892	38	35	-3	29	30	61	0	16	2
+C-0107	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	8.69892672063e-06	39	38	-1	28	29	61	1	18	3
+C-0108	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	4.72382506461e-05	38	34	-4	25	28	61	0	14	3
+C-0110	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00136247183133	36	43	7	26	26	66	0	14	2
+C-0111	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0695158927403	39	33	-6	24	23	60	0	6	3
+C-0113	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000406513123019	43	51	8	25	26	63	0	12	3
+C-0114	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000228388744694	38	67	29	22	26	68	1	9	3
+C-0115	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00409656744112	43	47	4	28	28	66	0	14	3
+C-0116	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000871669960121	38	32	-6	29	27	64	0	9	3
+C-0117	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00627564993965	32	28	-4	27	26	63	1	12	3
+C-0118	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000699160667644	38	36	-2	27	28	60	1	17	3
+C-0122	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.25980325127	32	37	5	25	26	67	0	8	3
+C-0124	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0043214315931	44	42	-2	27	29	68	1	6	3
+C-0126	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.148819306829	58	39	-19	18	9	80	0	0	4
+C-0127	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0174222219166	54	35	-19	26	26	67	0	6	4
+C-0128	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000601338503141	39	40	1	24	24	67	0	6	3
+C-0129	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000500263841378	46	43	-3	28	29	67	0	15	2
+C-0139	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00691212043691	32	38	6	24	24	66	0	14	3
+C-0141	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00065920385723	61	55	-6	29	28	63	1	6	2
+C-0143	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00474371977285	41	49	8	25	23	62	0	9	3
+C-0144	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000244138921089	44	38	-6	21	19	64	1	6	2
+C-0147	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.000740376523644	53	47	-6	29	30	69	0	16	2
+C-0154	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	6.11571924517e-06	30	20	-10	26	28	67	0	9	3
+C-0171	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.00120402306586	27	29	2	23	26	68	1	14	2
+C-0172	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	4.82376793421e-07	53	49	-4	29	27	65	0	12	2
+C-0179	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	5.31230242367e-05	35	46	11	25	26	65	0	9	2
+C-0194	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	3.070098241e-06	51	55	4	28	27	65	1	12	2
+C-0195	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	5.55333216719e-05	38	42	4	21	26	70	0	6	2
+C-0204	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0454837806393	38	45	7	26	28	64	0	12	2
+C-0214	hippocampus_to_ofc_anterior_r	bilateral mean hippocampus to right anterior OFC	hippocampus	ofc_anterior_r	0.0123262198985	26	27	1	23	22	70	0	6	2
+C-0009	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00323543357073	38	50	12	27	27	65	1	15	3
+C-0010	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0246004333908	42	35	-7	29	26	61	0	12	3
+C-0032	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0055654396256	54	68	14	29	27	63	0	12	4
+C-0037	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000766022009042	34	20	-14	30	26	68	1	6	2
+C-0041	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000386345790639	30	35	5	30	27	68	1	12	2
+C-0044	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00170975265665	24	31	7	30	29	68	0	15	2
+C-0047	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	6.96862123576e-05	47	36	-11	27	23	66	0	14	2
+C-0048	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0146626231167	49	54	5	24	26	63	1	6	2
+C-0049	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00252287088753	41	31	-10	26	27	63	0	6	4
+C-0050	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	2.93875390836e-06	38	31	-7	29	25	62	0	9	2
+C-0052	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00245776288697	29	40	11	25	26	62	1	12	4
+C-0054	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0025548749698	55	70	15	24	20	67	0	6	2
+C-0057	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000117228342465	28	26	-2	30	28	62	1	14	3
+C-0058	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0209694739685	51	48	-3	29	28	60	0	9	2
+C-0059	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000333612432056	44	49	5	27	30	61	0	12	2
+C-0061	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0523412365225	36	40	4	28	27	63	0	10	2
+C-0062	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000411853282184	43	32	-11	22	23	70	1	16	2
+C-0073	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.16976998373	54	43	-11	22	23	76	1	12	2
+C-0074	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0105361232058	36	37	1	30	30	64	0	16	2
+C-0075	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000306534830183	26	20	-6	24	27	69	1	16	2
+C-0076	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00938849591678	34	34	0	26	25	70	0	9	2
+C-0078	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00175248993213	32	30	-2	26	27	67	0	8	4
+C-0082	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.065123604858	22	24	2	26	27	65	1	9	2
+C-0083	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	3.89284932768e-06	24	36	12	22	19	65	0	5	2
+C-0084	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0240701615509	59	50	-9	25	25	66	0	9	2
+C-0085	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00133258817835	23	36	13	23	26	65	0	12	2
+C-0086	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	5.85192007086e-06	55	52	-3	29	29	61	1	16	2
+C-0088	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0013176129013	30	33	3	26	28	65	0	12	2
+C-0089	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000836537577049	27	30	3	23	24	65	1	12	2
+C-0090	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00113280998277	44	42	-2	30	30	66	0	16	2
+C-0091	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00142644058079	25	35	10	30	28	71	1	16	2
+C-0093	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000150268417186	45	40	-5	30	30	61	1	15	2
+C-0094	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00445783280838	37	35	-2	26	28	72	0	14	2
+C-0095	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0818178652872	34	30	-4	30	27	67	1	9	2
+C-0096	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00200569737825	36	44	8	30	30	63	0	12	2
+C-0097	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0018937761133	24	24	0	24	25	70	1	6	2
+C-0098	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000491370493022	45	44	-1	20	24	62	0	9	2
+C-0099	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0772778068409	52	48	-4	26	24	65	1	16	2
+C-0100	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000329408429692	52	53	1	26	27	65	0	12	2
+C-0101	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000500604735685	34	29	-5	29	30	66	0	12	2
+C-0102	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0479658896377	25	23	-2	29	27	72	1	12	2
+C-0104	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00851231813149	22	23	1	28	28	64	1	12	2
+C-0105	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	4.6231586756e-05	38	35	-3	29	30	61	0	16	2
+C-0107	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00253684827315	39	38	-1	28	29	61	1	18	3
+C-0108	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	4.2825913319e-05	38	34	-4	25	28	61	0	14	3
+C-0110	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.241159869373	36	43	7	26	26	66	0	14	2
+C-0111	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.032610703956	39	33	-6	24	23	60	0	6	3
+C-0113	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000235115135928	43	51	8	25	26	63	0	12	3
+C-0114	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	3.0943717694e-05	38	67	29	22	26	68	1	9	3
+C-0115	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00482858177555	43	47	4	28	28	66	0	14	3
+C-0116	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00357278524288	38	32	-6	29	27	64	0	9	3
+C-0117	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00162354544387	32	28	-4	27	26	63	1	12	3
+C-0118	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000723716378325	38	36	-2	27	28	60	1	17	3
+C-0122	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0110642378837	32	37	5	25	26	67	0	8	3
+C-0124	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00448022713706	44	42	-2	27	29	68	1	6	3
+C-0126	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0656954248677	58	39	-19	18	9	80	0	0	4
+C-0127	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0058090357236	54	35	-19	26	26	67	0	6	4
+C-0128	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000546487505344	39	40	1	24	24	67	0	6	3
+C-0129	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.191549181587	46	43	-3	28	29	67	0	15	2
+C-0139	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00582660290139	32	38	6	24	24	66	0	14	3
+C-0141	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	4.85626205369e-05	61	55	-6	29	28	63	1	6	2
+C-0143	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00318984945925	41	49	8	25	23	62	0	9	3
+C-0144	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000531293528483	44	38	-6	21	19	64	1	6	2
+C-0147	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000983057319273	53	47	-6	29	30	69	0	16	2
+C-0154	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000360261670069	30	20	-10	26	28	67	0	9	3
+C-0171	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.294212631923	27	29	2	23	26	68	1	14	2
+C-0172	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0102128303622	53	49	-4	29	27	65	0	12	2
+C-0179	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.0190460629613	35	46	11	25	26	65	0	9	2
+C-0194	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000743896902781	51	55	4	28	27	65	1	12	2
+C-0195	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.000224789297877	38	42	4	21	26	70	0	6	2
+C-0204	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.00352173734636	38	45	7	26	28	64	0	12	2
+C-0214	hippocampus_to_ofc_posterior_r	bilateral mean hippocampus to right posterior OFC	hippocampus	ofc_posterior_r	0.234502688151	26	27	1	23	22	70	0	6	2
+C-0009	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.00134163874813	38	50	12	27	27	65	1	15	3
+C-0010	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.012098199796	42	35	-7	29	26	61	0	12	3
+C-0032	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0546051919731	54	68	14	29	27	63	0	12	4
+C-0037	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.181256389034	34	20	-14	30	26	68	1	6	2
+C-0041	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.00288822206478	30	35	5	30	27	68	1	12	2
+C-0044	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0418654076844	24	31	7	30	29	68	0	15	2
+C-0047	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0038467923832	47	36	-11	27	23	66	0	14	2
+C-0048	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0776661101498	49	54	5	24	26	63	1	6	2
+C-0049	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.24774163824	41	31	-10	26	27	63	0	6	4
+C-0050	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.11047677411	38	31	-7	29	25	62	0	9	2
+C-0052	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.198961928119	29	40	11	25	26	62	1	12	4
+C-0054	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0181762621585	55	70	15	24	20	67	0	6	2
+C-0057	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0581783875811	28	26	-2	30	28	62	1	14	3
+C-0058	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0129418940951	51	48	-3	29	28	60	0	9	2
+C-0059	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.432498959873	44	49	5	27	30	61	0	12	2
+C-0061	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.00146641674304	36	40	4	28	27	63	0	10	2
+C-0062	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.329416264718	43	32	-11	22	23	70	1	16	2
+C-0073	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0464555498616	54	43	-11	22	23	76	1	12	2
+C-0074	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.00728834943692	36	37	1	30	30	64	0	16	2
+C-0075	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.563282205914	26	20	-6	24	27	69	1	16	2
+C-0076	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.049283193584	34	34	0	26	25	70	0	9	2
+C-0078	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.463535633421	32	30	-2	26	27	67	0	8	4
+C-0082	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.410577542189	22	24	2	26	27	65	1	9	2
+C-0083	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0215528428198	24	36	12	22	19	65	0	5	2
+C-0084	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.152877394489	59	50	-9	25	25	66	0	9	2
+C-0085	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0152058637993	23	36	13	23	26	65	0	12	2
+C-0086	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.000284294438562	55	52	-3	29	29	61	1	16	2
+C-0088	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0054880542555	30	33	3	26	28	65	0	12	2
+C-0089	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0986678751354	27	30	3	23	24	65	1	12	2
+C-0090	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.00628076349588	44	42	-2	30	30	66	0	16	2
+C-0091	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.181405190504	25	35	10	30	28	71	1	16	2
+C-0093	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0139734505021	45	40	-5	30	30	61	1	15	2
+C-0094	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.622797747765	37	35	-2	26	28	72	0	14	2
+C-0095	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0208407706128	34	30	-4	30	27	67	1	9	2
+C-0096	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.262364713186	36	44	8	30	30	63	0	12	2
+C-0097	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.00348693546364	24	24	0	24	25	70	1	6	2
+C-0098	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.00420147716296	45	44	-1	20	24	62	0	9	2
+C-0099	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0633206241466	52	48	-4	26	24	65	1	16	2
+C-0100	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0241674957399	52	53	1	26	27	65	0	12	2
+C-0101	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.153292614559	34	29	-5	29	30	66	0	12	2
+C-0102	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.133135632835	25	23	-2	29	27	72	1	12	2
+C-0104	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.272974700311	22	23	1	28	28	64	1	12	2
+C-0105	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.00346213915926	38	35	-3	29	30	61	0	16	2
+C-0107	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	4.22196773477e-05	39	38	-1	28	29	61	1	18	3
+C-0108	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.33428990515	38	34	-4	25	28	61	0	14	3
+C-0110	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.19922739224	36	43	7	26	26	66	0	14	2
+C-0111	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.511157516823	39	33	-6	24	23	60	0	6	3
+C-0113	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0154213169024	43	51	8	25	26	63	0	12	3
+C-0114	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.00210708401423	38	67	29	22	26	68	1	9	3
+C-0115	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.395881801192	43	47	4	28	28	66	0	14	3
+C-0116	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.633489361578	38	32	-6	29	27	64	0	9	3
+C-0117	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0029470392167	32	28	-4	27	26	63	1	12	3
+C-0118	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0175891567617	38	36	-2	27	28	60	1	17	3
+C-0122	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.445310672837	32	37	5	25	26	67	0	8	3
+C-0124	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0754826355284	44	42	-2	27	29	68	1	6	3
+C-0126	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.605630962233	58	39	-19	18	9	80	0	0	4
+C-0127	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0225283664088	54	35	-19	26	26	67	0	6	4
+C-0128	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0155918246061	39	40	1	24	24	67	0	6	3
+C-0129	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0992061386319	46	43	-3	28	29	67	0	15	2
+C-0139	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0785438669307	32	38	6	24	24	66	0	14	3
+C-0141	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.150036298682	61	55	-6	29	28	63	1	6	2
+C-0143	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0255947254812	41	49	8	25	23	62	0	9	3
+C-0144	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0727683132839	44	38	-6	21	19	64	1	6	2
+C-0147	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0537074322157	53	47	-6	29	30	69	0	16	2
+C-0154	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.397123947011	30	20	-10	26	28	67	0	9	3
+C-0171	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.206928875451	27	29	2	23	26	68	1	14	2
+C-0172	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0888739229331	53	49	-4	29	27	65	0	12	2
+C-0179	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0781690077842	35	46	11	25	26	65	0	9	2
+C-0194	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.00652522718436	51	55	4	28	27	65	1	12	2
+C-0195	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.0718455744187	38	42	4	21	26	70	0	6	2
+C-0204	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.108136203789	38	45	7	26	28	64	0	12	2
+C-0214	hippocampus_to_insula_r	bilateral mean hippocampus to right insula	hippocampus	insula_r	0.514256255148	26	27	1	23	22	70	0	6	2
+C-0009	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	4.76232891978e-06	38	50	12	27	27	65	1	15	3
+C-0010	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0167263659819	42	35	-7	29	26	61	0	12	3
+C-0032	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	4.68446378567e-06	54	68	14	29	27	63	0	12	4
+C-0037	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00356756504856	34	20	-14	30	26	68	1	6	2
+C-0041	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.000120360708935	30	35	5	30	27	68	1	12	2
+C-0044	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	1.80345586026e-06	24	31	7	30	29	68	0	15	2
+C-0047	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	2.61586360638e-08	47	36	-11	27	23	66	0	14	2
+C-0048	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	7.82805754939e-05	49	54	5	24	26	63	1	6	2
+C-0049	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0147469182892	41	31	-10	26	27	63	0	6	4
+C-0050	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0170952473683	38	31	-7	29	25	62	0	9	2
+C-0052	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0111014625427	29	40	11	25	26	62	1	12	4
+C-0054	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	3.56255522531e-05	55	70	15	24	20	67	0	6	2
+C-0057	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	3.59350964501e-06	28	26	-2	30	28	62	1	14	3
+C-0058	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00843623707559	51	48	-3	29	28	60	0	9	2
+C-0059	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	2.48266116057e-08	44	49	5	27	30	61	0	12	2
+C-0061	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0012532537381	36	40	4	28	27	63	0	10	2
+C-0062	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	4.82520238892e-07	43	32	-11	22	23	70	1	16	2
+C-0073	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.030097123001	54	43	-11	22	23	76	1	12	2
+C-0074	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.000326548167033	36	37	1	30	30	64	0	16	2
+C-0075	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00248286164073	26	20	-6	24	27	69	1	16	2
+C-0076	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.000128658107498	34	34	0	26	25	70	0	9	2
+C-0078	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0214600211494	32	30	-2	26	27	67	0	8	4
+C-0082	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	6.97787757532e-05	22	24	2	26	27	65	1	9	2
+C-0083	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	4.31270453608e-09	24	36	12	22	19	65	0	5	2
+C-0084	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0109743760231	59	50	-9	25	25	66	0	9	2
+C-0085	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	1.0803574305e-05	23	36	13	23	26	65	0	12	2
+C-0086	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	6.62352840653e-08	55	52	-3	29	29	61	1	16	2
+C-0088	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00191259729412	30	33	3	26	28	65	0	12	2
+C-0089	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	8.46202663916e-06	27	30	3	23	24	65	1	12	2
+C-0090	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	1.51357601958e-05	44	42	-2	30	30	66	0	16	2
+C-0091	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00821443725694	25	35	10	30	28	71	1	16	2
+C-0093	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	1.24774400695e-06	45	40	-5	30	30	61	1	15	2
+C-0094	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.110219168695	37	35	-2	26	28	72	0	14	2
+C-0095	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0165968306295	34	30	-4	30	27	67	1	9	2
+C-0096	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0154208615026	36	44	8	30	30	63	0	12	2
+C-0097	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	2.00041163878e-05	24	24	0	24	25	70	1	6	2
+C-0098	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	6.46573929715e-07	45	44	-1	20	24	62	0	9	2
+C-0099	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00121074165966	52	48	-4	26	24	65	1	16	2
+C-0100	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.000231249420945	52	53	1	26	27	65	0	12	2
+C-0101	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	4.07479345729e-09	34	29	-5	29	30	66	0	12	2
+C-0102	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00799043376132	25	23	-2	29	27	72	1	12	2
+C-0104	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00454089050042	22	23	1	28	28	64	1	12	2
+C-0105	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	1.53372778276e-07	38	35	-3	29	30	61	0	16	2
+C-0107	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	1.54521443679e-07	39	38	-1	28	29	61	1	18	3
+C-0108	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00639280865967	38	34	-4	25	28	61	0	14	3
+C-0110	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0123968471391	36	43	7	26	26	66	0	14	2
+C-0111	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0465128023368	39	33	-6	24	23	60	0	6	3
+C-0113	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00565714145897	43	51	8	25	26	63	0	12	3
+C-0114	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	1.5569191222e-07	38	67	29	22	26	68	1	9	3
+C-0115	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0235242943752	43	47	4	28	28	66	0	14	3
+C-0116	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.000258263823643	38	32	-6	29	27	64	0	9	3
+C-0117	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	1.33841444741e-05	32	28	-4	27	26	63	1	12	3
+C-0118	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00040849125293	38	36	-2	27	28	60	1	17	3
+C-0122	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00177729809092	32	37	5	25	26	67	0	8	3
+C-0124	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00571520478441	44	42	-2	27	29	68	1	6	3
+C-0126	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.184107951236	58	39	-19	18	9	80	0	0	4
+C-0127	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.002189400675	54	35	-19	26	26	67	0	6	4
+C-0128	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0104227070627	39	40	1	24	24	67	0	6	3
+C-0129	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0511248164106	46	43	-3	28	29	67	0	15	2
+C-0139	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00160255303085	32	38	6	24	24	66	0	14	3
+C-0141	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.00949452256658	61	55	-6	29	28	63	1	6	2
+C-0143	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	2.24560476969e-05	41	49	8	25	23	62	0	9	3
+C-0144	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	7.17851014824e-08	44	38	-6	21	19	64	1	6	2
+C-0147	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	2.4793375473e-06	53	47	-6	29	30	69	0	16	2
+C-0154	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	1.12123500621e-06	30	20	-10	26	28	67	0	9	3
+C-0171	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0190892301962	27	29	2	23	26	68	1	14	2
+C-0172	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	5.84212395817e-07	53	49	-4	29	27	65	0	12	2
+C-0179	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.000725938031903	35	46	11	25	26	65	0	9	2
+C-0194	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	9.46166299054e-06	51	55	4	28	27	65	1	12	2
+C-0195	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	5.42657134855e-08	38	42	4	21	26	70	0	6	2
+C-0204	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0226487267563	38	45	7	26	28	64	0	12	2
+C-0214	amygdala_to_ofc_medial_r	bilateral mean amygdala to right medial OFC	amygdala	ofc_medial_r	0.0433431568725	26	27	1	23	22	70	0	6	2
+C-0009	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.00207343887e-08	38	50	12	27	27	65	1	15	3
+C-0010	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	7.75120454451e-08	42	35	-7	29	26	61	0	12	3
+C-0032	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.38924400691e-09	54	68	14	29	27	63	0	12	4
+C-0037	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.30783440563e-07	34	20	-14	30	26	68	1	6	2
+C-0041	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	3.28829750925e-10	30	35	5	30	27	68	1	12	2
+C-0044	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.82438620282e-09	24	31	7	30	29	68	0	15	2
+C-0047	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	3.40587451579e-10	47	36	-11	27	23	66	0	14	2
+C-0048	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	7.13433133922e-06	49	54	5	24	26	63	1	6	2
+C-0049	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	9.9848176445e-05	41	31	-10	26	27	63	0	6	4
+C-0050	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.45687002093e-09	38	31	-7	29	25	62	0	9	2
+C-0052	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	9.16631543063e-10	29	40	11	25	26	62	1	12	4
+C-0054	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	3.2702651767e-05	55	70	15	24	20	67	0	6	2
+C-0057	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	3.89423030575e-08	28	26	-2	30	28	62	1	14	3
+C-0058	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	4.81639747283e-08	51	48	-3	29	28	60	0	9	2
+C-0059	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.21965963722e-05	44	49	5	27	30	61	0	12	2
+C-0061	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.00198319715753	36	40	4	28	27	63	0	10	2
+C-0062	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.00489760757e-07	43	32	-11	22	23	70	1	16	2
+C-0073	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.00332936302862	54	43	-11	22	23	76	1	12	2
+C-0074	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	5.82652966531e-08	36	37	1	30	30	64	0	16	2
+C-0075	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.28452706734e-09	26	20	-6	24	27	69	1	16	2
+C-0076	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.000168172472229	34	34	0	26	25	70	0	9	2
+C-0078	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.0181504009e-09	32	30	-2	26	27	67	0	8	4
+C-0082	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	7.91291641199e-05	22	24	2	26	27	65	1	9	2
+C-0083	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.55188215482e-07	24	36	12	22	19	65	0	5	2
+C-0084	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.52428205236e-06	59	50	-9	25	25	66	0	9	2
+C-0085	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	3.8073804548e-06	23	36	13	23	26	65	0	12	2
+C-0086	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	3.68346831265e-11	55	52	-3	29	29	61	1	16	2
+C-0088	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.00452292649875	30	33	3	26	28	65	0	12	2
+C-0089	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.73569217706e-08	27	30	3	23	24	65	1	12	2
+C-0090	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	6.80270891444e-08	44	42	-2	30	30	66	0	16	2
+C-0091	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.000246966034882	25	35	10	30	28	71	1	16	2
+C-0093	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.00296474845e-08	45	40	-5	30	30	61	1	15	2
+C-0094	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.0429624309285	37	35	-2	26	28	72	0	14	2
+C-0095	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.276966358628	34	30	-4	30	27	67	1	9	2
+C-0096	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.000160391763234	36	44	8	30	30	63	0	12	2
+C-0097	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.13170353882e-06	24	24	0	24	25	70	1	6	2
+C-0098	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	8.75435659425e-11	45	44	-1	20	24	62	0	9	2
+C-0099	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	4.56637688034e-05	52	48	-4	26	24	65	1	16	2
+C-0100	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.30038552911e-12	52	53	1	26	27	65	0	12	2
+C-0101	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	4.35670012089e-12	34	29	-5	29	30	66	0	12	2
+C-0102	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.00280980076829	25	23	-2	29	27	72	1	12	2
+C-0104	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.09428142909e-06	22	23	1	28	28	64	1	12	2
+C-0105	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	3.76382133747e-08	38	35	-3	29	30	61	0	16	2
+C-0107	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.51917824252e-12	39	38	-1	28	29	61	1	18	3
+C-0108	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	6.78956970827e-10	38	34	-4	25	28	61	0	14	3
+C-0110	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	4.53925466532e-09	36	43	7	26	26	66	0	14	2
+C-0111	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.00316038775771	39	33	-6	24	23	60	0	6	3
+C-0113	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.29152121878e-05	43	51	8	25	26	63	0	12	3
+C-0114	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.01810544291e-10	38	67	29	22	26	68	1	9	3
+C-0115	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.51330549494e-07	43	47	4	28	28	66	0	14	3
+C-0116	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.47811725029e-08	38	32	-6	29	27	64	0	9	3
+C-0117	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.75276409675e-05	32	28	-4	27	26	63	1	12	3
+C-0118	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	7.21954653601e-06	38	36	-2	27	28	60	1	17	3
+C-0122	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.0142285580256	32	37	5	25	26	67	0	8	3
+C-0124	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	7.5457418082e-07	44	42	-2	27	29	68	1	6	3
+C-0126	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.0399903666512	58	39	-19	18	9	80	0	0	4
+C-0127	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.22263681602e-05	54	35	-19	26	26	67	0	6	4
+C-0128	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.32019835985e-07	39	40	1	24	24	67	0	6	3
+C-0129	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	5.55155528198e-09	46	43	-3	28	29	67	0	15	2
+C-0139	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	5.91475101773e-07	32	38	6	24	24	66	0	14	3
+C-0141	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.084354843e-06	61	55	-6	29	28	63	1	6	2
+C-0143	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	4.40075647882e-06	41	49	8	25	23	62	0	9	3
+C-0144	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.23956115278e-10	44	38	-6	21	19	64	1	6	2
+C-0147	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.08926017459e-08	53	47	-6	29	30	69	0	16	2
+C-0154	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	1.40996939952e-12	30	20	-10	26	28	67	0	9	3
+C-0171	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	4.12706742302e-09	27	29	2	23	26	68	1	14	2
+C-0172	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	5.76210547449e-14	53	49	-4	29	27	65	0	12	2
+C-0179	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	6.11899148028e-11	35	46	11	25	26	65	0	9	2
+C-0194	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	4.20829661624e-13	51	55	4	28	27	65	1	12	2
+C-0195	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	2.18591500119e-11	38	42	4	21	26	70	0	6	2
+C-0204	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	0.000500799123879	38	45	7	26	28	64	0	12	2
+C-0214	amygdala_to_ofc_anterior_r	bilateral mean amygdala to right anterior OFC	amygdala	ofc_anterior_r	6.3283825094e-07	26	27	1	23	22	70	0	6	2
+C-0009	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	4.94941634616e-07	38	50	12	27	27	65	1	15	3
+C-0010	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.86470775092e-05	42	35	-7	29	26	61	0	12	3
+C-0032	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.00526373637e-06	54	68	14	29	27	63	0	12	4
+C-0037	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	5.63456517798e-07	34	20	-14	30	26	68	1	6	2
+C-0041	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	7.1412647411e-08	30	35	5	30	27	68	1	12	2
+C-0044	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.94344351668e-08	24	31	7	30	29	68	0	15	2
+C-0047	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.0533269785e-10	47	36	-11	27	23	66	0	14	2
+C-0048	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	6.64989092788e-05	49	54	5	24	26	63	1	6	2
+C-0049	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	3.57343978355e-06	41	31	-10	26	27	63	0	6	4
+C-0050	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	2.25977279208e-10	38	31	-7	29	25	62	0	9	2
+C-0052	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	9.88044447117e-07	29	40	11	25	26	62	1	12	4
+C-0054	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	8.19654590779e-07	55	70	15	24	20	67	0	6	2
+C-0057	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.97377260206e-08	28	26	-2	30	28	62	1	14	3
+C-0058	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.000103187459876	51	48	-3	29	28	60	0	9	2
+C-0059	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.67265854053e-09	44	49	5	27	30	61	0	12	2
+C-0061	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.000226615567358	36	40	4	28	27	63	0	10	2
+C-0062	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	6.67857046811e-09	43	32	-11	22	23	70	1	16	2
+C-0073	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.000388864556632	54	43	-11	22	23	76	1	12	2
+C-0074	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.7389415785e-06	36	37	1	30	30	64	0	16	2
+C-0075	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	6.5689752449e-09	26	20	-6	24	27	69	1	16	2
+C-0076	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.54650983631e-06	34	34	0	26	25	70	0	9	2
+C-0078	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	4.18701727869e-07	32	30	-2	26	27	67	0	8	4
+C-0082	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.000104102280516	22	24	2	26	27	65	1	9	2
+C-0083	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	3.51578168626e-12	24	36	12	22	19	65	0	5	2
+C-0084	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	5.29171570178e-05	59	50	-9	25	25	66	0	9	2
+C-0085	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	3.34177275991e-08	23	36	13	23	26	65	0	12	2
+C-0086	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	4.76444922006e-11	55	52	-3	29	29	61	1	16	2
+C-0088	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	4.78964324004e-06	30	33	3	26	28	65	0	12	2
+C-0089	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.39670448538e-09	27	30	3	23	24	65	1	12	2
+C-0090	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	9.84436173741e-09	44	42	-2	30	30	66	0	16	2
+C-0091	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	7.69034016229e-08	25	35	10	30	28	71	1	16	2
+C-0093	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	4.04534110209e-09	45	40	-5	30	30	61	1	15	2
+C-0094	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.000487183405351	37	35	-2	26	28	72	0	14	2
+C-0095	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.00488116830504	34	30	-4	30	27	67	1	9	2
+C-0096	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	2.9931008931e-07	36	44	8	30	30	63	0	12	2
+C-0097	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	6.01752521908e-08	24	24	0	24	25	70	1	6	2
+C-0098	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	7.10557321059e-09	45	44	-1	20	24	62	0	9	2
+C-0099	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.00047447653945	52	48	-4	26	24	65	1	16	2
+C-0100	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.22043190019e-08	52	53	1	26	27	65	0	12	2
+C-0101	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	2.27806062467e-11	34	29	-5	29	30	66	0	12	2
+C-0102	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	3.50041122018e-05	25	23	-2	29	27	72	1	12	2
+C-0104	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	4.8299868452e-07	22	23	1	28	28	64	1	12	2
+C-0105	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	8.19359984924e-11	38	35	-3	29	30	61	0	16	2
+C-0107	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	5.64999217785e-08	39	38	-1	28	29	61	1	18	3
+C-0108	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	6.78122485467e-10	38	34	-4	25	28	61	0	14	3
+C-0110	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.00204117404077	36	43	7	26	26	66	0	14	2
+C-0111	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.000890527634271	39	33	-6	24	23	60	0	6	3
+C-0113	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	5.34057241218e-06	43	51	8	25	26	63	0	12	3
+C-0114	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	4.24772593141e-12	38	67	29	22	26	68	1	9	3
+C-0115	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	2.95377347756e-07	43	47	4	28	28	66	0	14	3
+C-0116	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	5.95668780147e-07	38	32	-6	29	27	64	0	9	3
+C-0117	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	9.69906160679e-07	32	28	-4	27	26	63	1	12	3
+C-0118	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	7.97213695257e-06	38	36	-2	27	28	60	1	17	3
+C-0122	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.78989036508e-05	32	37	5	25	26	67	0	8	3
+C-0124	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.03486007204e-06	44	42	-2	27	29	68	1	6	3
+C-0126	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.00795251764905	58	39	-19	18	9	80	0	0	4
+C-0127	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.1316699283e-06	54	35	-19	26	26	67	0	6	4
+C-0128	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.02658636621e-07	39	40	1	24	24	67	0	6	3
+C-0129	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.00466178563835	46	43	-3	28	29	67	0	15	2
+C-0139	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	5.16679401153e-07	32	38	6	24	24	66	0	14	3
+C-0141	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.7688929982e-08	61	55	-6	29	28	63	1	6	2
+C-0143	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.6891389426e-06	41	49	8	25	23	62	0	9	3
+C-0144	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	4.70848164891e-10	44	38	-6	21	19	64	1	6	2
+C-0147	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	2.73211616298e-08	53	47	-6	29	30	69	0	16	2
+C-0154	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	3.12921838939e-10	30	20	-10	26	28	67	0	9	3
+C-0171	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.00515328289536	27	29	2	23	26	68	1	14	2
+C-0172	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	4.25172554911e-07	53	49	-4	29	27	65	0	12	2
+C-0179	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	3.38062162422e-06	35	46	11	25	26	65	0	9	2
+C-0194	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	1.55140305851e-09	51	55	4	28	27	65	1	12	2
+C-0195	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	3.50788302403e-10	38	42	4	21	26	70	0	6	2
+C-0204	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	8.14963267794e-07	38	45	7	26	28	64	0	12	2
+C-0214	amygdala_to_ofc_posterior_r	bilateral mean amygdala to right posterior OFC	amygdala	ofc_posterior_r	0.00553687797187	26	27	1	23	22	70	0	6	2
+C-0009	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	3.83841708452e-08	38	50	12	27	27	65	1	15	3
+C-0010	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	2.98517619328e-06	42	35	-7	29	26	61	0	12	3
+C-0032	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000443410327375	54	68	14	29	27	63	0	12	4
+C-0037	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0588864136348	34	20	-14	30	26	68	1	6	2
+C-0041	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	1.99861781205e-06	30	35	5	30	27	68	1	12	2
+C-0044	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	7.61481844356e-05	24	31	7	30	29	68	0	15	2
+C-0047	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	2.61210347045e-06	47	36	-11	27	23	66	0	14	2
+C-0048	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.00605202018496	49	54	5	24	26	63	1	6	2
+C-0049	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0268959936228	41	31	-10	26	27	63	0	6	4
+C-0050	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.00882215050894	38	31	-7	29	25	62	0	9	2
+C-0052	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0206606508162	29	40	11	25	26	62	1	12	4
+C-0054	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	7.23040936862e-05	55	70	15	24	20	67	0	6	2
+C-0057	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.00537067722239	28	26	-2	30	28	62	1	14	3
+C-0058	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000101652610011	51	48	-3	29	28	60	0	9	2
+C-0059	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.063752376243	44	49	5	27	30	61	0	12	2
+C-0061	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	2.27991722227e-07	36	40	4	28	27	63	0	10	2
+C-0062	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.122602253216	43	32	-11	22	23	70	1	16	2
+C-0073	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	1.76812440524e-05	54	43	-11	22	23	76	1	12	2
+C-0074	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	6.56783815415e-07	36	37	1	30	30	64	0	16	2
+C-0075	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.17261285261	26	20	-6	24	27	69	1	16	2
+C-0076	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000156085407991	34	34	0	26	25	70	0	9	2
+C-0078	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.14725074383	32	30	-2	26	27	67	0	8	4
+C-0082	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.153737805006	22	24	2	26	27	65	1	9	2
+C-0083	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	3.83075667305e-05	24	36	12	22	19	65	0	5	2
+C-0084	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.00878623214551	59	50	-9	25	25	66	0	9	2
+C-0085	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	1.31876292305e-05	23	36	13	23	26	65	0	12	2
+C-0086	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	1.83081980316e-08	55	52	-3	29	29	61	1	16	2
+C-0088	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000103505919321	30	33	3	26	28	65	0	12	2
+C-0089	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0012118688892	27	30	3	23	24	65	1	12	2
+C-0090	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	1.85326778764e-06	44	42	-2	30	30	66	0	16	2
+C-0091	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0160419921427	25	35	10	30	28	71	1	16	2
+C-0093	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	3.85486671858e-05	45	40	-5	30	30	61	1	15	2
+C-0094	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.358926460033	37	35	-2	26	28	72	0	14	2
+C-0095	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000173697601889	34	30	-4	30	27	67	1	9	2
+C-0096	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0221889373353	36	44	8	30	30	63	0	12	2
+C-0097	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	1.9364882528e-07	24	24	0	24	25	70	1	6	2
+C-0098	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	2.64068090144e-06	45	44	-1	20	24	62	0	9	2
+C-0099	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000410490767325	52	48	-4	26	24	65	1	16	2
+C-0100	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.00131047402411	52	53	1	26	27	65	0	12	2
+C-0101	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000268253483664	34	29	-5	29	30	66	0	12	2
+C-0102	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.00722733661094	25	23	-2	29	27	72	1	12	2
+C-0104	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0300064144487	22	23	1	28	28	64	1	12	2
+C-0105	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	1.38692190453e-06	38	35	-3	29	30	61	0	16	2
+C-0107	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	2.34030717037e-11	39	38	-1	28	29	61	1	18	3
+C-0108	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.103674699632	38	34	-4	25	28	61	0	14	3
+C-0110	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000656179526901	36	43	7	26	26	66	0	14	2
+C-0111	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.397377928626	39	33	-6	24	23	60	0	6	3
+C-0113	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0264047346954	43	51	8	25	26	63	0	12	3
+C-0114	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	1.46043252839e-07	38	67	29	22	26	68	1	9	3
+C-0115	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.113547354608	43	47	4	28	28	66	0	14	3
+C-0116	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.209559316562	38	32	-6	29	27	64	0	9	3
+C-0117	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	5.93979239319e-06	32	28	-4	27	26	63	1	12	3
+C-0118	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.00404957796251	38	36	-2	27	28	60	1	17	3
+C-0122	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0606395225049	32	37	5	25	26	67	0	8	3
+C-0124	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000471678453035	44	42	-2	27	29	68	1	6	3
+C-0126	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.370387064529	58	39	-19	18	9	80	0	0	4
+C-0127	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	3.5932225432e-05	54	35	-19	26	26	67	0	6	4
+C-0128	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000386650730123	39	40	1	24	24	67	0	6	3
+C-0129	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000960595987833	46	43	-3	28	29	67	0	15	2
+C-0139	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000794004272951	32	38	6	24	24	66	0	14	3
+C-0141	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0359699431133	61	55	-6	29	28	63	1	6	2
+C-0143	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000419046241518	41	49	8	25	23	62	0	9	3
+C-0144	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	9.59254529573e-05	44	38	-6	21	19	64	1	6	2
+C-0147	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000729797752107	53	47	-6	29	30	69	0	16	2
+C-0154	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0207016263183	30	20	-10	26	28	67	0	9	3
+C-0171	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.00353169707453	27	29	2	23	26	68	1	14	2
+C-0172	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000702609547323	53	49	-4	29	27	65	0	12	2
+C-0179	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.000140216909443	35	46	11	25	26	65	0	9	2
+C-0194	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	5.02185251016e-07	51	55	4	28	27	65	1	12	2
+C-0195	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.00384540994926	38	42	4	21	26	70	0	6	2
+C-0204	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.0055775624705	38	45	7	26	28	64	0	12	2
+C-0214	amygdala_to_insula_r	bilateral mean amygdala to right insula	amygdala	insula_r	0.149577969163	26	27	1	23	22	70	0	6	2
+C-0009	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.4320238123	38	50	12	27	27	65	1	15	3
+C-0010	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.146495214302	42	35	-7	29	26	61	0	12	3
+C-0032	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.744436688547	54	68	14	29	27	63	0	12	4
+C-0037	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.119878216878	34	20	-14	30	26	68	1	6	2
+C-0041	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.438159768231	30	35	5	30	27	68	1	12	2
+C-0044	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.517692446896	24	31	7	30	29	68	0	15	2
+C-0047	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.621085629569	47	36	-11	27	23	66	0	14	2
+C-0048	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.341015964687	49	54	5	24	26	63	1	6	2
+C-0049	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.538016986322	41	31	-10	26	27	63	0	6	4
+C-0050	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.152937075135	38	31	-7	29	25	62	0	9	2
+C-0052	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.69743761543	29	40	11	25	26	62	1	12	4
+C-0054	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0261878638917	55	70	15	24	20	67	0	6	2
+C-0057	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.825719481066	28	26	-2	30	28	62	1	14	3
+C-0058	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.534960349045	51	48	-3	29	28	60	0	9	2
+C-0059	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.441437839893	44	49	5	27	30	61	0	12	2
+C-0061	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0464296347365	36	40	4	28	27	63	0	10	2
+C-0062	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.344620885604	43	32	-11	22	23	70	1	16	2
+C-0073	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0795947444063	54	43	-11	22	23	76	1	12	2
+C-0074	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0636236832018	36	37	1	30	30	64	0	16	2
+C-0075	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.357437679217	26	20	-6	24	27	69	1	16	2
+C-0076	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.667733612655	34	34	0	26	25	70	0	9	2
+C-0078	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.52700272678	32	30	-2	26	27	67	0	8	4
+C-0082	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.192144191518	22	24	2	26	27	65	1	9	2
+C-0083	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.49180272458	24	36	12	22	19	65	0	5	2
+C-0084	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.425850635704	59	50	-9	25	25	66	0	9	2
+C-0085	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.58093488331	23	36	13	23	26	65	0	12	2
+C-0086	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.565838883289	55	52	-3	29	29	61	1	16	2
+C-0088	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.628309918666	30	33	3	26	28	65	0	12	2
+C-0089	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0257497446792	27	30	3	23	24	65	1	12	2
+C-0090	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.211145640842	44	42	-2	30	30	66	0	16	2
+C-0091	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.312209589027	25	35	10	30	28	71	1	16	2
+C-0093	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.670088683879	45	40	-5	30	30	61	1	15	2
+C-0094	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.623639602219	37	35	-2	26	28	72	0	14	2
+C-0095	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.107747776751	34	30	-4	30	27	67	1	9	2
+C-0096	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0173198193213	36	44	8	30	30	63	0	12	2
+C-0097	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.163835685063	24	24	0	24	25	70	1	6	2
+C-0098	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.264967765929	45	44	-1	20	24	62	0	9	2
+C-0099	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.555028534489	52	48	-4	26	24	65	1	16	2
+C-0100	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.656083358547	52	53	1	26	27	65	0	12	2
+C-0101	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.261443647829	34	29	-5	29	30	66	0	12	2
+C-0102	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.551533207923	25	23	-2	29	27	72	1	12	2
+C-0104	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.165712807567	22	23	1	28	28	64	1	12	2
+C-0105	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.548978207092	38	35	-3	29	30	61	0	16	2
+C-0107	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.444453393849	39	38	-1	28	29	61	1	18	3
+C-0108	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.204817536804	38	34	-4	25	28	61	0	14	3
+C-0110	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0615886347021	36	43	7	26	26	66	0	14	2
+C-0111	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.734542718586	39	33	-6	24	23	60	0	6	3
+C-0113	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.183722063607	43	51	8	25	26	63	0	12	3
+C-0114	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.31426072043	38	67	29	22	26	68	1	9	3
+C-0115	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0961452629866	43	47	4	28	28	66	0	14	3
+C-0116	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.162846822539	38	32	-6	29	27	64	0	9	3
+C-0117	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.420783701494	32	28	-4	27	26	63	1	12	3
+C-0118	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.474090080856	38	36	-2	27	28	60	1	17	3
+C-0122	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.700965208472	32	37	5	25	26	67	0	8	3
+C-0124	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0797948383049	44	42	-2	27	29	68	1	6	3
+C-0126	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.273843655548	58	39	-19	18	9	80	0	0	4
+C-0127	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.640040922625	54	35	-19	26	26	67	0	6	4
+C-0128	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0447557145163	39	40	1	24	24	67	0	6	3
+C-0129	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.000395071730469	46	43	-3	28	29	67	0	15	2
+C-0139	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.077888686168	32	38	6	24	24	66	0	14	3
+C-0141	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.505539838837	61	55	-6	29	28	63	1	6	2
+C-0143	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.627447727474	41	49	8	25	23	62	0	9	3
+C-0144	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.550137577864	44	38	-6	21	19	64	1	6	2
+C-0147	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.59753131103	53	47	-6	29	30	69	0	16	2
+C-0154	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.591525628157	30	20	-10	26	28	67	0	9	3
+C-0171	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.206396663532	27	29	2	23	26	68	1	14	2
+C-0172	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.394121130496	53	49	-4	29	27	65	0	12	2
+C-0179	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.162712661092	35	46	11	25	26	65	0	9	2
+C-0194	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0588744622305	51	55	4	28	27	65	1	12	2
+C-0195	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.346194852432	38	42	4	21	26	70	0	6	2
+C-0204	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.0576938743076	38	45	7	26	28	64	0	12	2
+C-0214	dmpfc_to_ofc_medial_r	bilateral mean DMPFC to right medial OFC	dmpfc	ofc_medial_r	0.53154235222	26	27	1	23	22	70	0	6	2
+C-0009	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.62289548057	38	50	12	27	27	65	1	15	3
+C-0010	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.538177420854	42	35	-7	29	26	61	0	12	3
+C-0032	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.726884736046	54	68	14	29	27	63	0	12	4
+C-0037	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.439547218685	34	20	-14	30	26	68	1	6	2
+C-0041	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.36660732662	30	35	5	30	27	68	1	12	2
+C-0044	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.515118788642	24	31	7	30	29	68	0	15	2
+C-0047	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.695131167261	47	36	-11	27	23	66	0	14	2
+C-0048	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.205926259195	49	54	5	24	26	63	1	6	2
+C-0049	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.718774590577	41	31	-10	26	27	63	0	6	4
+C-0050	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.775541443801	38	31	-7	29	25	62	0	9	2
+C-0052	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.572162292551	29	40	11	25	26	62	1	12	4
+C-0054	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.103093915395	55	70	15	24	20	67	0	6	2
+C-0057	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.772203241126	28	26	-2	30	28	62	1	14	3
+C-0058	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.466679008788	51	48	-3	29	28	60	0	9	2
+C-0059	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.339357130376	44	49	5	27	30	61	0	12	2
+C-0061	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.0593206914649	36	40	4	28	27	63	0	10	2
+C-0062	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.384191049354	43	32	-11	22	23	70	1	16	2
+C-0073	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.218283733659	54	43	-11	22	23	76	1	12	2
+C-0074	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.11637353589	36	37	1	30	30	64	0	16	2
+C-0075	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.367692363885	26	20	-6	24	27	69	1	16	2
+C-0076	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.503591991077	34	34	0	26	25	70	0	9	2
+C-0078	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.848723015969	32	30	-2	26	27	67	0	8	4
+C-0082	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.333593039887	22	24	2	26	27	65	1	9	2
+C-0083	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.346831852848	24	36	12	22	19	65	0	5	2
+C-0084	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.617206418133	59	50	-9	25	25	66	0	9	2
+C-0085	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.514288052106	23	36	13	23	26	65	0	12	2
+C-0086	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.508412870146	55	52	-3	29	29	61	1	16	2
+C-0088	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.590249144331	30	33	3	26	28	65	0	12	2
+C-0089	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.0684786733737	27	30	3	23	24	65	1	12	2
+C-0090	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.328195820915	44	42	-2	30	30	66	0	16	2
+C-0091	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.489390324843	25	35	10	30	28	71	1	16	2
+C-0093	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.622455207811	45	40	-5	30	30	61	1	15	2
+C-0094	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.522185305131	37	35	-2	26	28	72	0	14	2
+C-0095	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.0028116607823	34	30	-4	30	27	67	1	9	2
+C-0096	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.233256881385	36	44	8	30	30	63	0	12	2
+C-0097	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.386068620022	24	24	0	24	25	70	1	6	2
+C-0098	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.667039910684	45	44	-1	20	24	62	0	9	2
+C-0099	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.379905999572	52	48	-4	26	24	65	1	16	2
+C-0100	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.197380673212	52	53	1	26	27	65	0	12	2
+C-0101	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.440031837408	34	29	-5	29	30	66	0	12	2
+C-0102	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.768958929194	25	23	-2	29	27	72	1	12	2
+C-0104	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.155962806429	22	23	1	28	28	64	1	12	2
+C-0105	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.812961659661	38	35	-3	29	30	61	0	16	2
+C-0107	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.593708847332	39	38	-1	28	29	61	1	18	3
+C-0108	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.435291054055	38	34	-4	25	28	61	0	14	3
+C-0110	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.283168326456	36	43	7	26	26	66	0	14	2
+C-0111	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.833880261951	39	33	-6	24	23	60	0	6	3
+C-0113	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.154047487656	43	51	8	25	26	63	0	12	3
+C-0114	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.599451658098	38	67	29	22	26	68	1	9	3
+C-0115	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.0990876052752	43	47	4	28	28	66	0	14	3
+C-0116	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.627339100034	38	32	-6	29	27	64	0	9	3
+C-0117	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.309399095359	32	28	-4	27	26	63	1	12	3
+C-0118	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.663225207192	38	36	-2	27	28	60	1	17	3
+C-0122	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.630235973339	32	37	5	25	26	67	0	8	3
+C-0124	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.122953537674	44	42	-2	27	29	68	1	6	3
+C-0126	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.603645739164	58	39	-19	18	9	80	0	0	4
+C-0127	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.579695176919	54	35	-19	26	26	67	0	6	4
+C-0128	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.410890760491	39	40	1	24	24	67	0	6	3
+C-0129	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.140271054925	46	43	-3	28	29	67	0	15	2
+C-0139	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.182438500475	32	38	6	24	24	66	0	14	3
+C-0141	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.753423557593	61	55	-6	29	28	63	1	6	2
+C-0143	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.718331030111	41	49	8	25	23	62	0	9	3
+C-0144	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.756948859377	44	38	-6	21	19	64	1	6	2
+C-0147	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.65695957771	53	47	-6	29	30	69	0	16	2
+C-0154	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.630181109333	30	20	-10	26	28	67	0	9	3
+C-0171	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.639675559038	27	29	2	23	26	68	1	14	2
+C-0172	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.514400905255	53	49	-4	29	27	65	0	12	2
+C-0179	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.234887994485	35	46	11	25	26	65	0	9	2
+C-0194	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.773822553445	51	55	4	28	27	65	1	12	2
+C-0195	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.59390018779	38	42	4	21	26	70	0	6	2
+C-0204	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.120548956492	38	45	7	26	28	64	0	12	2
+C-0214	dmpfc_to_ofc_anterior_r	bilateral mean DMPFC to right anterior OFC	dmpfc	ofc_anterior_r	0.641412408668	26	27	1	23	22	70	0	6	2
+C-0009	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.53275548711	38	50	12	27	27	65	1	15	3
+C-0010	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.328787377879	42	35	-7	29	26	61	0	12	3
+C-0032	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.509575950277	54	68	14	29	27	63	0	12	4
+C-0037	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.0380886790356	34	20	-14	30	26	68	1	6	2
+C-0041	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.232386265317	30	35	5	30	27	68	1	12	2
+C-0044	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.38768870141	24	31	7	30	29	68	0	15	2
+C-0047	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.638379488141	47	36	-11	27	23	66	0	14	2
+C-0048	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.202963887465	49	54	5	24	26	63	1	6	2
+C-0049	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.494854266026	41	31	-10	26	27	63	0	6	4
+C-0050	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.81987026054	38	31	-7	29	25	62	0	9	2
+C-0052	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.712568590365	29	40	11	25	26	62	1	12	4
+C-0054	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.169171418202	55	70	15	24	20	67	0	6	2
+C-0057	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.645650389966	28	26	-2	30	28	62	1	14	3
+C-0058	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.197002924516	51	48	-3	29	28	60	0	9	2
+C-0059	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.526015155177	44	49	5	27	30	61	0	12	2
+C-0061	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.225054097828	36	40	4	28	27	63	0	10	2
+C-0062	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.351530650518	43	32	-11	22	23	70	1	16	2
+C-0073	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.496506833403	54	43	-11	22	23	76	1	12	2
+C-0074	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.239668324588	36	37	1	30	30	64	0	16	2
+C-0075	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.577779444055	26	20	-6	24	27	69	1	16	2
+C-0076	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.587318588244	34	34	0	26	25	70	0	9	2
+C-0078	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.862433154033	32	30	-2	26	27	67	0	8	4
+C-0082	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.120028753551	22	24	2	26	27	65	1	9	2
+C-0083	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.382743666545	24	36	12	22	19	65	0	5	2
+C-0084	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.121789321329	59	50	-9	25	25	66	0	9	2
+C-0085	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.873737565334	23	36	13	23	26	65	0	12	2
+C-0086	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.596762722944	55	52	-3	29	29	61	1	16	2
+C-0088	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.600665083363	30	33	3	26	28	65	0	12	2
+C-0089	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.0614143373731	27	30	3	23	24	65	1	12	2
+C-0090	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.144437041087	44	42	-2	30	30	66	0	16	2
+C-0091	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.291408052626	25	35	10	30	28	71	1	16	2
+C-0093	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.443546718296	45	40	-5	30	30	61	1	15	2
+C-0094	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.667395626667	37	35	-2	26	28	72	0	14	2
+C-0095	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.235802284247	34	30	-4	30	27	67	1	9	2
+C-0096	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.494398064554	36	44	8	30	30	63	0	12	2
+C-0097	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.458720156438	24	24	0	24	25	70	1	6	2
+C-0098	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.370503908908	45	44	-1	20	24	62	0	9	2
+C-0099	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.761663842396	52	48	-4	26	24	65	1	16	2
+C-0100	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.516508457618	52	53	1	26	27	65	0	12	2
+C-0101	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.43555466515	34	29	-5	29	30	66	0	12	2
+C-0102	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.633979293085	25	23	-2	29	27	72	1	12	2
+C-0104	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.142375363589	22	23	1	28	28	64	1	12	2
+C-0105	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.871011382883	38	35	-3	29	30	61	0	16	2
+C-0107	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.220403040302	39	38	-1	28	29	61	1	18	3
+C-0108	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.583771649605	38	34	-4	25	28	61	0	14	3
+C-0110	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.00528920416146	36	43	7	26	26	66	0	14	2
+C-0111	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.548669122727	39	33	-6	24	23	60	0	6	3
+C-0113	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.624947127172	43	51	8	25	26	63	0	12	3
+C-0114	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.662491018206	38	67	29	22	26	68	1	9	3
+C-0115	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.34424006607	43	47	4	28	28	66	0	14	3
+C-0116	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.424341530273	38	32	-6	29	27	64	0	9	3
+C-0117	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.427866207275	32	28	-4	27	26	63	1	12	3
+C-0118	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.428214088236	38	36	-2	27	28	60	1	17	3
+C-0122	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.309757855364	32	37	5	25	26	67	0	8	3
+C-0124	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.0644358518637	44	42	-2	27	29	68	1	6	3
+C-0126	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.52071646762	58	39	-19	18	9	80	0	0	4
+C-0127	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.222840981752	54	35	-19	26	26	67	0	6	4
+C-0128	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.280828703704	39	40	1	24	24	67	0	6	3
+C-0129	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.00570035351295	46	43	-3	28	29	67	0	15	2
+C-0139	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.220654004209	32	38	6	24	24	66	0	14	3
+C-0141	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.680015245885	61	55	-6	29	28	63	1	6	2
+C-0143	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.774712322122	41	49	8	25	23	62	0	9	3
+C-0144	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.574067734802	44	38	-6	21	19	64	1	6	2
+C-0147	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.295862235125	53	47	-6	29	30	69	0	16	2
+C-0154	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.184920077499	30	20	-10	26	28	67	0	9	3
+C-0171	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.23017337888	27	29	2	23	26	68	1	14	2
+C-0172	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.109682420094	53	49	-4	29	27	65	0	12	2
+C-0179	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.202133860538	35	46	11	25	26	65	0	9	2
+C-0194	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.05361294222	51	55	4	28	27	65	1	12	2
+C-0195	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.535578578441	38	42	4	21	26	70	0	6	2
+C-0204	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.219528286378	38	45	7	26	28	64	0	12	2
+C-0214	dmpfc_to_ofc_posterior_r	bilateral mean DMPFC to right posterior OFC	dmpfc	ofc_posterior_r	0.286126228686	26	27	1	23	22	70	0	6	2
+C-0009	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.555481256167	38	50	12	27	27	65	1	15	3
+C-0010	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0648470367286	42	35	-7	29	26	61	0	12	3
+C-0032	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0855407339266	54	68	14	29	27	63	0	12	4
+C-0037	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.000558079020966	34	20	-14	30	26	68	1	6	2
+C-0041	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.158578525197	30	35	5	30	27	68	1	12	2
+C-0044	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00417160684826	24	31	7	30	29	68	0	15	2
+C-0047	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00870798685982	47	36	-11	27	23	66	0	14	2
+C-0048	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00441683757131	49	54	5	24	26	63	1	6	2
+C-0049	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0969238187906	41	31	-10	26	27	63	0	6	4
+C-0050	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0183922695878	38	31	-7	29	25	62	0	9	2
+C-0052	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0508894403023	29	40	11	25	26	62	1	12	4
+C-0054	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00102228711888	55	70	15	24	20	67	0	6	2
+C-0057	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0458704957647	28	26	-2	30	28	62	1	14	3
+C-0058	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0417616404982	51	48	-3	29	28	60	0	9	2
+C-0059	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0203699011087	44	49	5	27	30	61	0	12	2
+C-0061	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.091411545368	36	40	4	28	27	63	0	10	2
+C-0062	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00287496060168	43	32	-11	22	23	70	1	16	2
+C-0073	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.110213735353	54	43	-11	22	23	76	1	12	2
+C-0074	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.142501010823	36	37	1	30	30	64	0	16	2
+C-0075	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0276826251194	26	20	-6	24	27	69	1	16	2
+C-0076	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.126168703885	34	34	0	26	25	70	0	9	2
+C-0078	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00801543051247	32	30	-2	26	27	67	0	8	4
+C-0082	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00112224259243	22	24	2	26	27	65	1	9	2
+C-0083	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0912142934493	24	36	12	22	19	65	0	5	2
+C-0084	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.019672098884	59	50	-9	25	25	66	0	9	2
+C-0085	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.253742734033	23	36	13	23	26	65	0	12	2
+C-0086	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.113518347778	55	52	-3	29	29	61	1	16	2
+C-0088	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.125493634155	30	33	3	26	28	65	0	12	2
+C-0089	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	1.37005171059e-05	27	30	3	23	24	65	1	12	2
+C-0090	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00446559391402	44	42	-2	30	30	66	0	16	2
+C-0091	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0705600270299	25	35	10	30	28	71	1	16	2
+C-0093	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.100637842712	45	40	-5	30	30	61	1	15	2
+C-0094	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.121194726596	37	35	-2	26	28	72	0	14	2
+C-0095	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.202245823589	34	30	-4	30	27	67	1	9	2
+C-0096	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.000383269786333	36	44	8	30	30	63	0	12	2
+C-0097	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.144184283286	24	24	0	24	25	70	1	6	2
+C-0098	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0674040631884	45	44	-1	20	24	62	0	9	2
+C-0099	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.222337461535	52	48	-4	26	24	65	1	16	2
+C-0100	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0845931618564	52	53	1	26	27	65	0	12	2
+C-0101	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.000524352563242	34	29	-5	29	30	66	0	12	2
+C-0102	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.303681155665	25	23	-2	29	27	72	1	12	2
+C-0104	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00386388943188	22	23	1	28	28	64	1	12	2
+C-0105	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0511419204424	38	35	-3	29	30	61	0	16	2
+C-0107	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.145591623124	39	38	-1	28	29	61	1	18	3
+C-0108	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.000656581094493	38	34	-4	25	28	61	0	14	3
+C-0110	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	9.84065935044e-06	36	43	7	26	26	66	0	14	2
+C-0111	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0291013137719	39	33	-6	24	23	60	0	6	3
+C-0113	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0585478471005	43	51	8	25	26	63	0	12	3
+C-0114	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00403832593429	38	67	29	22	26	68	1	9	3
+C-0115	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	2.02745175205e-05	43	47	4	28	28	66	0	14	3
+C-0116	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.000985825482143	38	32	-6	29	27	64	0	9	3
+C-0117	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00536242042839	32	28	-4	27	26	63	1	12	3
+C-0118	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0272558136982	38	36	-2	27	28	60	1	17	3
+C-0122	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0472972046612	32	37	5	25	26	67	0	8	3
+C-0124	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.084460335107	44	42	-2	27	29	68	1	6	3
+C-0126	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.000491987167209	58	39	-19	18	9	80	0	0	4
+C-0127	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0575514195508	54	35	-19	26	26	67	0	6	4
+C-0128	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	2.05854744321e-06	39	40	1	24	24	67	0	6	3
+C-0129	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	3.56530022715e-05	46	43	-3	28	29	67	0	15	2
+C-0139	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00056038536754	32	38	6	24	24	66	0	14	3
+C-0141	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0300395017084	61	55	-6	29	28	63	1	6	2
+C-0143	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.126332373948	41	49	8	25	23	62	0	9	3
+C-0144	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00534561105535	44	38	-6	21	19	64	1	6	2
+C-0147	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.105691863591	53	47	-6	29	30	69	0	16	2
+C-0154	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0155295020027	30	20	-10	26	28	67	0	9	3
+C-0171	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.00802270505369	27	29	2	23	26	68	1	14	2
+C-0172	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	5.62965838054e-05	53	49	-4	29	27	65	0	12	2
+C-0179	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0144886649315	35	46	11	25	26	65	0	9	2
+C-0194	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	4.85259608327e-07	51	55	4	28	27	65	1	12	2
+C-0195	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	2.28957394827e-05	38	42	4	21	26	70	0	6	2
+C-0204	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.0119262660628	38	45	7	26	28	64	0	12	2
+C-0214	dmpfc_to_insula_r	bilateral mean DMPFC to right insula	dmpfc	insula_r	0.085450356329	26	27	1	23	22	70	0	6	2
